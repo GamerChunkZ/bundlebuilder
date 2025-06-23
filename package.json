@@ -1,0 +1,11 @@
+{
+  "name": "com.gamerchunkz.bundlebuilder",
+  "version": "1.0.0",
+  "displayName": "Bundle Builder",
+  "description": "Bundle Builder",
+  "unity": "6000.0",
+  "author": {
+    "name": "Ajas M M",
+    "email": "gamerchunkz@gmail.com"
+  }
+}
